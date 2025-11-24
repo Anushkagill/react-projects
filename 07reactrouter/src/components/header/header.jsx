@@ -68,6 +68,11 @@ export default function Header() {
                                     Github
                                 </NavLink>
                             </li>
+                            <li>
+                                 <NavLink to="/contact/us" className="hover:text-orange-400">
+                                   Contact → Us
+                                 </NavLink>
+                            </li>
                             
                         </ul>
                     </div>
